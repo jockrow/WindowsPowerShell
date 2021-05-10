@@ -1,0 +1,5 @@
+Location at
+$HOME\Documentos\WindowsPowerShell
+
+To Install Oh-My-Posh
+Install-Module oh-my-posh -Scope CurrentUser
