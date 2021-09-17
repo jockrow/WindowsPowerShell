@@ -1,6 +1,8 @@
 Import-Module oh-my-posh
 Set-PoshPrompt -Theme marcduiker
 
+function vi          { nvim $args }
+
 # git Alias
   # git abbreviations
 function g          { git }
